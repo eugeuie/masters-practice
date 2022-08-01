@@ -5,5 +5,5 @@
         - скачать [отсюда](https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal) подходящий для установленной версии Python GDAL wheel-файл;
         - установить его командой `pip install [wheelfile name]`;
         - после этого GDAL и другие модули можно импортировать так: `from osgeo import gdal`, `from osgeo import ogr`, `from osgeo import osr`.
-- [ ] Построить результат классификации в виде карты;
-- [ ] Научиться ее анализировать (с помощью [QGIS](https://www.qgis.org/en/site/forusers/download.html)).
+- [ ] Построить результат классификации в виде карты
+- [ ] Научиться ее анализировать (с помощью [QGIS](https://www.qgis.org/en/site/forusers/download.html))
